@@ -13,4 +13,12 @@
 >  q -> salimos del comando man.
 >  ls -> nos permite listar el contenido de un directorio.
 >  lsb_release -> dice la versión del sistema operativo.
-> 
+>  pstree -> muestra los procesos con su respectiva jerarquía.
+>  touch -> crea archivos vacíos.
+>  kill -> termina procesos manualmente.
+>  su root -> cambiar a cuenta root.
+>  exit -> para salir de root.
+>  grep -> sirve para buscar texto que coincida con una frase que indicamos.
+>  ip addr -> despliega parámetros de las interfaces de red residentes en el núcleo, como la dirección IP (dinámica o estática), o la máscara de red.
+>  cat /etc/passwd -> muestra información necesaria durante el login.
+>  whoami -> muestra cuál usuario está conectado actualmente.
