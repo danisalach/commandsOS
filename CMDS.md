@@ -42,3 +42,5 @@
   > muestra información necesaria durante el login.
 21.  **whoami**: 
   > muestra cuál usuario está conectado actualmente.
+21.  **whoami**: 
+  > muestra cuál usuario está conectado actualmente.
