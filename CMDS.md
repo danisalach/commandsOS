@@ -1,9 +1,9 @@
 # Comandos
 
-**top** ->  nos ayuda a conocer los procesos de ejecución del sistema (y más cosas) en tiempo real.
-**ps** -> muestra todos los procesos del sistema en un formato amplio.
-**sudo** -> permite a los usuarios ejecutar programas con los privilegios de seguridad de otro usuario (normalmente el usuario root) de manera segura.
-**apt-get install** -> comando para instalar aplicaciones en sistemas basados en debian o ubuntu.
+1. **top** ->  nos ayuda a conocer los procesos de ejecución del sistema (y más cosas) en tiempo real.
+2. **ps** -> muestra todos los procesos del sistema en un formato amplio.
+3. **sudo** -> permite a los usuarios ejecutar programas con los privilegios de seguridad de otro usuario (normalmente el usuario root) de manera segura.
+4. **apt-get install** -> comando para instalar aplicaciones en sistemas basados en debian o ubuntu.
 **clear** -> limpia la consola.
 >  uname -a -> dice la versión kernel.
 >  mkdir -> crear directorio.
