@@ -1,4 +1,4 @@
-# Comandos 
+# Comandos
 
 >  top ->  nos ayuda a conocer los procesos de ejecución del sistema (y más cosas) en tiempo real.
 >  ps -> muestra todos los procesos del sistema en un formato amplio.
